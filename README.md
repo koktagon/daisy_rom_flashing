@@ -1,2 +1,2 @@
 # daisy_rom_flashing
-ROM flashing guide for Mi A2 Lite (daisy)
+go to the wiki, you ain't finding anything here
